@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Lev Golofastov.
+I am a Software Engineering student from Saint-Petersburg State University.
 
 <!--
 **l-golofastov/l-golofastov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

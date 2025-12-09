@@ -2,6 +2,7 @@
 My name is Lev Golofastov.
 
 I am a Software Engineering graduate from Saint-Petersburg State University.
+
 ITMO MSc student from the Faculty of Software Engineering and Computer Technology, System and Application Software program.
 
 <!--
